@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyFirstGithubUser" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="android:windowBackground">@color/background_dark</item>
+        <item name="android:textColor">@color/text_dark</item>
+    </style>
+    <style name="Theme.MyFirstGithubUser" parent="Base.Theme.MyFirstGithubUser" />
+</resources>

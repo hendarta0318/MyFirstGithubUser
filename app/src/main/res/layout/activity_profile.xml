@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="50dp"
+    android:orientation="vertical"
+    tools:context=".ui.activity.ProfileActivity">
+
+    <ImageView
+        android:id="@+id/about"
+        android:layout_width="215dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:background="@drawable/hendarta_bg"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:gravity="center"
+        android:text="@string/nama_lengkap"
+        android:layout_marginTop="12dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/email_verified"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:gravity="center"
+        android:layout_marginTop="12dp"
+        android:text="@string/email_bangkit"
+        android:textStyle="bold"/>
+</LinearLayout>

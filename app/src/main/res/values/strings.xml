@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My First Github User</string>
+    <string name="github_user_search">Github User\'s Search</string>
+    <string name="detail_user">Detail User</string>
+    <string name="username">Username</string>
+    <string name="searchbar_hint">Username</string>
+    <string name="nama_user">Nama User</string>
+    <string name="setting">Setting</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
+    <string name="email_bangkit">a227bsy2674@bangkit.academy</string>
+    <string name="nama_lengkap">HENDARTA WIDYA ARDANA</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="content_tab_follower">Welcome</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
